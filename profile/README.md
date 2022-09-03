@@ -1,4 +1,4 @@
-# File Sharing World Area NetWork (FilSwan)
+# File Sharing World Area Network (FilSwan)
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/MSXGzVsSYf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xfilswan)](https://twitter.com/0xfilswan)
 
